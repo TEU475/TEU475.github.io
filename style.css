@@ -145,3 +145,38 @@ p {
   border-radius: 16px;
   box-shadow: 0 8px 18px rgba(0,0,0,0.15);
 }
+
+.momento-especial {
+  text-align: center;
+  margin: 100px 20px;
+  font-family: 'Playfair Display', serif;
+  color: #333;
+}
+
+/* TÍTULO */
+.titulo-data h2 {
+  font-size: 2.3rem;
+  margin: 0;
+  font-weight: 600;
+}
+
+.titulo-data h3 {
+  font-size: 1.4rem;
+  margin-top: 6px;
+  font-weight: 400;
+  color: #666;
+}
+
+/* TEXTO */
+.texto-janeiro {
+  margin-top: 50px;
+  font-size: 1.4rem;
+  line-height: 1.8;
+}
+
+.texto-janeiro strong {
+  display: block;
+  margin-top: 20px;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
